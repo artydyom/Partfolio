@@ -1,6 +1,6 @@
 # Исследование надёжности заёмщиков
 
-[HTML](https://github.com/artydyom/Partfolio/blob/main/Исследование%20надежности%20заемщиков/Исследование%20надежности%20заемщиков.html)     [ipynb](https://github.com/artydyom/Partfolio/blob/main/Исследование%20надежности%20заемщиков/Исследование%20надежности%20заемщиков.ipynb)
+[HTML]([https://github.com/artydyom/Partfolio/blob/main/01%20Исследование%20надежности%20заемщиков/Исследование%20надежности%20заемщиков.html])     [ipynb]([https://github.com/artydyom/Partfolio/blob/main/01%20Исследование%20надежности%20заемщиков/Исследование%20надежности%20заемщиков.ipynb])
 
 ## Описание проекта
 
