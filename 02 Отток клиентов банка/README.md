@@ -1,8 +1,6 @@
 # Анализ оттока клиентов банка
 
-[HTML](https://github.com/artydyom/Partfolio/blob/main/02%20Отток%20клиентов%20банка/Выпускной%20проект%20-%20Отток%20клиентов%20банка.html)     
-[ipynb](https://github.com/artydyom/Partfolio/blob/main/02%20Отток%20клиентов%20банка/Выпускной%20проект%20-%20Отток%20клиентов%20банка.ipynb)     
-[pdf](https://github.com/artydyom/Partfolio/blob/main/02%20Отток%20клиентов%20банка/Презентация%20Отток%20клиентов%20банка.pdf)
+[HTML](https://github.com/artydyom/Partfolio/blob/main/02%20Отток%20клиентов%20банка/Выпускной%20проект%20-%20Отток%20клиентов%20банка.html)     [ipynb](https://github.com/artydyom/Partfolio/blob/main/02%20Отток%20клиентов%20банка/Выпускной%20проект%20-%20Отток%20клиентов%20банка.ipynb)     [pdf](https://github.com/artydyom/Partfolio/blob/main/02%20Отток%20клиентов%20банка/Презентация%20Отток%20клиентов%20банка.pdf)
 
 
 ## Описание проекта
